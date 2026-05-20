@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗
-██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗
-█████╗  ███████║███████║███████║██║  ██║
-██╔══╝  ██╔══██║██╔══██║██╔══██║██║  ██║
-██║     ██║  ██║██║  ██║██║  ██║██████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+███████╗███████╗██╗  ██╗███████╗██████╗  ██████╗██╗   ██╗
+██╔════╝██╔════╝██║  ██║██╔════╝██╔══██╗██╔════╝██║   ██║
+█████╗  █████╗  ███████║█████╗  ██║  ██║██║     ██║   ██║
+██╔══╝  ██╔══╝  ██╔══██║██╔══╝  ██║  ██║██║     ╚██╗ ██╔╝
+██║     ███████╗██║  ██║███████╗██████╔╝╚██████╗ ╚████╔╝ 
+╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═══╝  
 ```
 
 ### 🌱 Passionate Developer from India · MERN Stack Learner · Builder of Things
@@ -34,7 +34,7 @@ Hey! I'm **Fahad Mohammed Kabeer**, a self-driven developer from **Kozhikode, Ke
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fehedcv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-mohammed-kabeer-cv-611305246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/fehedcv)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fehedcv)
 
 </div>
@@ -48,6 +48,7 @@ Hey! I'm **Fahad Mohammed Kabeer**, a self-driven developer from **Kozhikode, Ke
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -56,6 +57,7 @@ Hey! I'm **Fahad Mohammed Kabeer**, a self-driven developer from **Kozhikode, Ke
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,6 +68,7 @@ Hey! I'm **Fahad Mohammed Kabeer**, a self-driven developer from **Kozhikode, Ke
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### ☁️ Deployment & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -75,34 +78,8 @@ Hey! I'm **Fahad Mohammed Kabeer**, a self-driven developer from **Kozhikode, Ke
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fehedcv&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fehedcv&theme=merko&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fehedcv&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=fehedcv&icon=0&color=6)](https://visitcount.itsvg.in)
-
-*"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
